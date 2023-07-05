@@ -6,9 +6,8 @@ by the company, to provide a better recommendation of the treadmills to the new 
 there are differences across the product with respect to customer characteristics.
 (1) Perform descriptive analytics to create a customer profile for each AeroFit treadmill product by developing appropriate tables and charts.
 (2) For each AeroFit treadmill product, construct two-way contingency tables and compute all conditional and marginal probabilities along with their insights/impact on the business.
-Dataset
 
-Columns Profiling:-
+# Columns Profiling:-
 Age:	In years.
 Gender:	Male/Female.
 Education:	In years.
